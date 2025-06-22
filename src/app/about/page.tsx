@@ -6,11 +6,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sobre Nosotros - RDx Web",
     description: "Somos un equipo apasionado por la tecnología y la creación de experiencias web modernas y accesibles.",
-    url: "http://localhost:3000/about",
+    url: "https://rdx-web.onrender.com/about",
     type: "website",
     images: [
       {
-        url: "/images/seo-about.png",
+        url: "https://rdx-web.onrender.com/images/seo-about.png",
         width: 1200,
         height: 630,
         alt: "Imagen Sobre Nosotros RDx"

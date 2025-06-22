@@ -6,11 +6,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Blog de RDx Web",
     description: "Lee artículos y novedades sobre desarrollo moderno con Next.js, diseño web y buenas prácticas.",
-    url: "http://localhost:3000/blog", 
+    url: "https://rdx-web.onrender.com/blog", 
     type: "website",
     images: [
       {
-        url: "/images/seo-blog.png",
+        url: "https://rdx-web.onrender.com/images/seo-blog.png",
         width: 1200,
         height: 630,
         alt: "Imagen del Blog de RDx Web"

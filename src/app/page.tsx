@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Inicio - RDx Web",
     description: "Explora nuestro sitio y descubre lo último en desarrollo web moderno con Next.js y más.",
-    url: "http://localhost:3000",
+    url: "https://rdx-web.onrender.com/",
     type: "website",
     images: [
       {
-        url: "/images/seo-home.png",
+        url: "https://rdx-web.onrender.com/images/seo-home.png",
         width: 1200,
         height: 630,
         alt: "Imagen Home RDx"

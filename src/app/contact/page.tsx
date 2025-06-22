@@ -7,11 +7,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Contáctanos - RDx Web",
     description: "Envíanos un mensaje y recibe atención personalizada sobre desarrollo web y diseño.",
-    url: "http://localhost:3000/contact", 
+    url: "https://rdx-web.onrender.com/contact", 
     type: "website",
     images: [
       {
-        url: "/images/seo-contacto.png",
+        url: "https://rdx-web.onrender.com/images/seo-contacto.png",
         width: 1200,
         height: 630,
         alt: "Imagen Contacto RDx"

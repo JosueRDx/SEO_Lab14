@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://rdx-web.onrender.com/api/sitemap
+Sitemap: https://rdx-web.onrender.com/sitemap.xml

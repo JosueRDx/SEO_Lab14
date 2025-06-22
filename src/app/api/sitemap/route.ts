@@ -5,7 +5,6 @@ export async function GET() {
 
   const staticRoutes = ['/', '/about', '/contact'];
 
-  // Ejemplo simulado de "rutas dinámicas" de blog desde una base de datos o CMS
   const blogPosts = [
     { slug: 'mi-primera-publicacion' },
     { slug: 'tips-para-desarrolladores' },
